@@ -228,7 +228,7 @@ nav.navbar .navbar-toggler[aria-expaded="true"] .navbar-toggler-icon{
 .banner{
   margin-top: 0;
   padding:0 0 100px 0;
-  background-image:url('../../public/images/bannerbg.jpg');
+  background-image:url('../images/bannerbg.jpg');
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -486,7 +486,8 @@ nav.navbar .navbar-toggler[aria-expaded="true"] .navbar-toggler-icon{
 
 /* ===CONTACT START=== */
 .contact{
-background-image:url('../../public/images/bannerbg.jpg');
+background-image:url('../images/contactbg.jpg');
+background-size: cover;
 }
 
 .contact img {

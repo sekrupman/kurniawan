@@ -4,6 +4,12 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
+//IMPORT IMAGES
+import linkedin from '../../images/linkedin.jpg'
+import logo from '../../images/logo.png'
+import instagram from '../../images/instagram.jpg';
+import github from '../../images/github.jpg'
+
 function NavBar() {
     const [activeLink, setActiveLink] = useState('home')
     const [scrolled, setScrolled] = useState(false)
@@ -36,7 +42,7 @@ const onUpdateActiveLink =(value)=>{
     <Navbar expand="lg" className={scrolled ? "scrolled":""}>
       <Container>
       <Navbar.Brand href="#home">
-      <img src="../images/logo.png" style={{ width: '50px', height:'50px' }} alt="Logo" />
+      <img src={logo} style={{ width: '50px', height:'50px' }} alt="Logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
@@ -47,9 +53,9 @@ const onUpdateActiveLink =(value)=>{
           </Nav>
           <span className='navbar-text'>
             <div className='social-icon'>
-              <a href='https://www.linkedin.com/in/ignatius-kurniawan-73a50b191'target='_blank'><img src='../images/linkedin.jpg'style={{ width:'25px', height:'25px' }} /></a>
-              <a href='https://instagram.com/kurniawanp08?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=='target='_blank'><img src='../images/instagram.jpg'style={{ width:'25px', height:'25px' }} /></a>
-              <a href='https://github.com/sekrupman'target='_blank'><img src='../images/github.jpg'style={{ width:'25px', height:'25px' }} /></a>
+              <a href='https://www.linkedin.com/in/ignatius-kurniawan-73a50b191'target='_blank'><img src={linkedin} style={{ width:'25px', height:'25px' }} /></a>
+              <a href='https://instagram.com/kurniawanp08?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=='target='_blank'><img src={instagram} style={{ width:'25px', height:'25px' }} /></a>
+              <a href='https://github.com/sekrupman'target='_blank'><img src={github} style={{ width:'25px', height:'25px' }} /></a>
             </div>
             <button className='vvd'  style={{ height: "50px", width: "150px" }}onClick={scrollToContact}><span>Let's Connect</span></button>
           </span>

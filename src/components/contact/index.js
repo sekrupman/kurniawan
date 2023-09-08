@@ -2,6 +2,8 @@ import { useState } from "react";
 import { Row, Col, Form, Button } from "react-bootstrap";
 import React from "react";
 
+import contactImg from '../../images/contact.png'
+
 export const Contact = () => {
     
   const scriptURL = 'https://script.google.com/macros/s/AKfycbyAdFt0VPP58O5xyMbd1OC2XX11MyYWckIbcEACeSZ-E6PKn87rF0E7J2tkPIHSyO1b/exec';
@@ -40,7 +42,7 @@ export const Contact = () => {
       <container>
         <Row className="align-items-center">
           <Col md={6}>
-            <img src='../images/contact.png' alt='Contact Us' />
+            <img src={contactImg} alt='Contact Us' />
           </Col>
           <Col md={6}>
             <h2> Get In Touch</h2>

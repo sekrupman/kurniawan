@@ -3,6 +3,9 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 import { BsInstagram, BsTwitter } from 'react-icons/bs'
 import { BiLogoGmail } from 'react-icons/bi'
 
+import logo from '../../images/logo.png'
+import ufo from '../../images/Vp3M.gif'
+
 export const Footer = () => {
     return(
         <Container>
@@ -11,12 +14,12 @@ export const Footer = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="4">
-            <img src="../images/logo.png" style={{ height:'50%', width:'30%' }}></img>
+            <img src={logo} style={{ height:'50%', width:'30%' }}></img>
             <p>Your digital vision, my code – Let's build something amazing together.</p>
           </MDBCol>
           <MDBCol md="4">
               <h2>Thank You</h2>
-              <img src="../images/Vp3M.gif" />
+              <img src={ufo} />
           </MDBCol>
           <MDBCol md={4}>
           <h5 className="title">Social Media</h5>

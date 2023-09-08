@@ -2,6 +2,9 @@ import { useState, useEffect } from 'react'
 import {Container, Row, Col} from 'react-bootstrap'
 import { ArrowRightCircle } from 'react-bootstrap-icons'
 
+import bannerImg from '../../images/banner.png';
+
+
 export const Banner =() =>{
     const [loopNum, setLoopNum] = useState(0)
     const [isDeleting, setIsDeleting] = useState(false)
@@ -48,7 +51,7 @@ export const Banner =() =>{
             <Container>
                 <Row className='align-items-center'>
                     <Col xs={12}md={6}>
-                        <span className='tagline'>Welcome to my ergergeportfolio</span>
+                        <span className='tagline'>Welcome to my portfolio</span>
                         <h1>{`Hi I'm Ignatius Kurniawan`}<div className='wrap'>{text}</div></h1>
                         <p>I'm a web developer passionate about creating beautiful and user-friendly websites. With expertise in HTML, CSS, and JavaScript, I turn ideas into digital experiences. Explore my projects below, and let's build something amazing together.</p>
                     <button onClick={scrollToContact} style={{
@@ -58,7 +61,7 @@ export const Banner =() =>{
                     }}>Let's connect<ArrowRightCircle size={40} /></button>
                     </Col>
                     <Col xs={12}md={6} xl={5}>
-                        <img src='../images/banner.png' />
+                    <img src={bannerImg} alt="Banner" />
                     </Col>
                 </Row>
             </Container>

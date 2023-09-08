@@ -1,25 +1,30 @@
 import { Col, Tab, Container, Nav, Row } from "react-bootstrap";
 import { Card } from "./card";
 
+//IMPORT IMAGES
+import testbg from '../../images/testproject.jpeg'
+import project1 from '../../images/project1.jpg'
+
+
 export const Project = () => {
 
     const projects1 = [
         {
           title: 'NextJs with NodeJs',
           description: 'Description for Project 1',
-          imgUrl:  '../images/project1.jpg',
+          imgUrl:project1,
           linkUrl: 'https://2200872-32-han-eslint-platinum-o0j3epxi1-sekrupman.vercel.app/'
         },
         {
           title: 'Project 2',
           description: 'Description for Project 2',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
         {
           title: 'Project 3',
           description: 'Description for Project 3',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
       ];
@@ -27,19 +32,19 @@ export const Project = () => {
         {
           title: 'Project 4',
           description: 'Description for Project 4',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
         {
           title: 'Project 5',
           description: 'Description for Project 5',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
         {
           title: 'Project 6',
           description: 'Description for Project 6',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
       ];
@@ -47,19 +52,19 @@ export const Project = () => {
         {
           title: 'Project 7',
           description: 'Description for Project 7',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
         {
           title: 'Project 8',
           description: 'Description for Project 8',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
         {
           title: 'Project 9',
           description: 'Description for Project 9',
-          imgUrl:  '../images/testproject.jpeg',
+          imgUrl:  testbg,
           linkUrl: '#'
         },
       ];
