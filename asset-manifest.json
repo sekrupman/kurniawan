@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/kurniawan/static/css/main.4c12cae1.css",
-    "main.js": "/kurniawan/static/js/main.5c7160ae.js",
+    "main.css": "/kurniawan/static/css/main.baaedefa.css",
+    "main.js": "/kurniawan/static/js/main.8d881792.js",
     "static/js/787.bbe01249.chunk.js": "/kurniawan/static/js/787.bbe01249.chunk.js",
+    "static/media/contactbg.jpg": "/kurniawan/static/media/contactbg.2f57da531b5a8d01d641.jpg",
     "static/media/bannerbg.jpg": "/kurniawan/static/media/bannerbg.2e0bc9f5edea308242e2.jpg",
+    "static/media/instagram.jpg": "/kurniawan/static/media/instagram.7fbdaa54bdcf6456a486.jpg",
     "static/media/CentraNo2-Book.ttf": "/kurniawan/static/media/CentraNo2-Book.89a30f8e5b776bc654bd.ttf",
+    "static/media/project1.jpg": "/kurniawan/static/media/project1.2f6b9cc83873f6f5cef4.jpg",
     "static/media/CentraNo2-Bold.ttf": "/kurniawan/static/media/CentraNo2-Bold.abdd83d4c93df29ce485.ttf",
     "static/media/CentraNo2-Medium.ttf": "/kurniawan/static/media/CentraNo2-Medium.e607ab3a57d6d01aabd4.ttf",
+    "static/media/banner.png": "/kurniawan/static/media/banner.e29d450b8cb012b42f39.png",
+    "static/media/laravel.png": "/kurniawan/static/media/laravel.279e3fcb19d440713887.png",
+    "static/media/testproject.jpeg": "/kurniawan/static/media/testproject.df43a3a208fb8468f027.jpeg",
+    "static/media/github.jpg": "/kurniawan/static/media/github.934436a1f3ee43defae7.jpg",
+    "static/media/logo.png": "/kurniawan/static/media/logo.7d9e1f67dfb60ab52205.png",
+    "static/media/linkedin.jpg": "/kurniawan/static/media/linkedin.bf485ebc96958cc86759.jpg",
+    "static/media/Vp3M.gif": "/kurniawan/static/media/Vp3M.2ce1dea7970d17fee88e.gif",
     "static/media/revicons.eot": "/kurniawan/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/kurniawan/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/contact.png": "/kurniawan/static/media/contact.06c93882be1131976fc0.png",
+    "static/media/php.png": "/kurniawan/static/media/php.de057a0de073c6cf7653.png",
     "static/media/revicons.woff": "/kurniawan/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/kurniawan/index.html",
-    "main.4c12cae1.css.map": "/kurniawan/static/css/main.4c12cae1.css.map",
-    "main.5c7160ae.js.map": "/kurniawan/static/js/main.5c7160ae.js.map",
+    "main.baaedefa.css.map": "/kurniawan/static/css/main.baaedefa.css.map",
+    "main.8d881792.js.map": "/kurniawan/static/js/main.8d881792.js.map",
     "787.bbe01249.chunk.js.map": "/kurniawan/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c12cae1.css",
-    "static/js/main.5c7160ae.js"
+    "static/css/main.baaedefa.css",
+    "static/js/main.8d881792.js"
   ]
 }
