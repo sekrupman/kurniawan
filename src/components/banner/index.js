@@ -48,7 +48,7 @@ export const Banner =() =>{
             <Container>
                 <Row className='align-items-center'>
                     <Col xs={12}md={6}>
-                        <span className='tagline'>Welcome to my portfolio</span>
+                        <span className='tagline'>Welcome to my ergergeportfolio</span>
                         <h1>{`Hi I'm Ignatius Kurniawan`}<div className='wrap'>{text}</div></h1>
                         <p>I'm a web developer passionate about creating beautiful and user-friendly websites. With expertise in HTML, CSS, and JavaScript, I turn ideas into digital experiences. Explore my projects below, and let's build something amazing together.</p>
                     <button onClick={scrollToContact} style={{
