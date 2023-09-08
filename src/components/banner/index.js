@@ -2,6 +2,9 @@ import { useState, useEffect } from 'react'
 import {Container, Row, Col} from 'react-bootstrap'
 import { ArrowRightCircle } from 'react-bootstrap-icons'
 
+import bannerImg from '../images/banner.png';
+
+
 export const Banner =() =>{
     const [loopNum, setLoopNum] = useState(0)
     const [isDeleting, setIsDeleting] = useState(false)
@@ -58,7 +61,7 @@ export const Banner =() =>{
                     }}>Let's connect<ArrowRightCircle size={40} /></button>
                     </Col>
                     <Col xs={12}md={6} xl={5}>
-                        <img src='../images/banner.png' />
+                        <img src={bannerImg} />
                     </Col>
                 </Row>
             </Container>
