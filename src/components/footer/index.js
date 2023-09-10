@@ -18,8 +18,7 @@ export const Footer = () => {
             <p>Your digital vision, my code – Let's build something amazing together.</p>
           </MDBCol>
           <MDBCol md="4">
-              <h2>Thank You</h2>
-              <img src={ufo} />
+               <img src={ufo} />
           </MDBCol>
           <MDBCol md={4}>
           <h5 className="title">Social Media</h5>
