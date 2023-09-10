@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kurniawan/static/css/main.baaedefa.css",
-    "main.js": "/kurniawan/static/js/main.8d881792.js",
+    "main.css": "/kurniawan/static/css/main.4d9723bd.css",
+    "main.js": "/kurniawan/static/js/main.906f509d.js",
     "static/js/787.bbe01249.chunk.js": "/kurniawan/static/js/787.bbe01249.chunk.js",
     "static/media/contactbg.jpg": "/kurniawan/static/media/contactbg.2f57da531b5a8d01d641.jpg",
     "static/media/bannerbg.jpg": "/kurniawan/static/media/bannerbg.2e0bc9f5edea308242e2.jpg",
@@ -23,12 +23,12 @@
     "static/media/php.png": "/kurniawan/static/media/php.de057a0de073c6cf7653.png",
     "static/media/revicons.woff": "/kurniawan/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/kurniawan/index.html",
-    "main.baaedefa.css.map": "/kurniawan/static/css/main.baaedefa.css.map",
-    "main.8d881792.js.map": "/kurniawan/static/js/main.8d881792.js.map",
+    "main.4d9723bd.css.map": "/kurniawan/static/css/main.4d9723bd.css.map",
+    "main.906f509d.js.map": "/kurniawan/static/js/main.906f509d.js.map",
     "787.bbe01249.chunk.js.map": "/kurniawan/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baaedefa.css",
-    "static/js/main.8d881792.js"
+    "static/css/main.4d9723bd.css",
+    "static/js/main.906f509d.js"
   ]
 }
