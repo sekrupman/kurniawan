@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kurniawan/static/css/main.4d9723bd.css",
+    "main.css": "/kurniawan/static/css/main.665654f9.css",
     "main.js": "/kurniawan/static/js/main.906f509d.js",
     "static/js/787.bbe01249.chunk.js": "/kurniawan/static/js/787.bbe01249.chunk.js",
     "static/media/contactbg.jpg": "/kurniawan/static/media/contactbg.2f57da531b5a8d01d641.jpg",
@@ -23,12 +23,12 @@
     "static/media/php.png": "/kurniawan/static/media/php.de057a0de073c6cf7653.png",
     "static/media/revicons.woff": "/kurniawan/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/kurniawan/index.html",
-    "main.4d9723bd.css.map": "/kurniawan/static/css/main.4d9723bd.css.map",
+    "main.665654f9.css.map": "/kurniawan/static/css/main.665654f9.css.map",
     "main.906f509d.js.map": "/kurniawan/static/js/main.906f509d.js.map",
     "787.bbe01249.chunk.js.map": "/kurniawan/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d9723bd.css",
+    "static/css/main.665654f9.css",
     "static/js/main.906f509d.js"
   ]
 }
