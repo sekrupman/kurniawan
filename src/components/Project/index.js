@@ -2,68 +2,68 @@ import { Col, Tab, Container, Nav, Row } from "react-bootstrap";
 import { Card } from "./card";
 
 //IMPORT IMAGES
-import testbg from '../../images/testproject.jpeg'
+import testbg from '../../images/comming-soon.jpg'
 import project1 from '../../images/project1.jpg'
-
+import project2 from '../../images/chat-app.jpg'
 
 export const Project = () => {
 
     const projects1 = [
         {
-          title: 'NextJs with NodeJs',
-          description: 'Description for Project 1',
+          title: 'Game Platform',
+          description: 'Game Platform with nextJs and node',
           imgUrl:project1,
           linkUrl: 'https://2200872-32-han-eslint-platinum-o0j3epxi1-sekrupman.vercel.app/'
         },
         {
-          title: 'Project 2',
-          description: 'Description for Project 2',
-          imgUrl:  testbg,
-          linkUrl: '#'
+          title: 'Chat Application',
+          description: 'Simple chat application with express and socket.io',
+          imgUrl:  project2,
+          linkUrl: 'https://simple-app-chat.glitch.me'
         },
         {
-          title: 'Project 3',
-          description: 'Description for Project 3',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
       ];
     const projects2 = [
         {
-          title: 'Project 4',
-          description: 'Description for Project 4',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
         {
-          title: 'Project 5',
-          description: 'Description for Project 5',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
         {
-          title: 'Project 6',
-          description: 'Description for Project 6',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
       ];
     const projects3 = [
         {
-          title: 'Project 7',
-          description: 'Description for Project 7',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
         {
-          title: 'Project 8',
-          description: 'Description for Project 8',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
         {
-          title: 'Project 9',
-          description: 'Description for Project 9',
+          title: 'Comming Soon',
+          description: 'Comming Soon',
           imgUrl:  testbg,
           linkUrl: '#'
         },
