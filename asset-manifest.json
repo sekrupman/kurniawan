@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kurniawan/static/css/main.665654f9.css",
-    "main.js": "/kurniawan/static/js/main.ffc8c309.js",
+    "main.js": "/kurniawan/static/js/main.606d76dc.js",
     "static/js/787.bbe01249.chunk.js": "/kurniawan/static/js/787.bbe01249.chunk.js",
     "static/media/contactbg.jpg": "/kurniawan/static/media/contactbg.2f57da531b5a8d01d641.jpg",
     "static/media/bannerbg.jpg": "/kurniawan/static/media/bannerbg.2e0bc9f5edea308242e2.jpg",
@@ -12,6 +12,7 @@
     "static/media/CentraNo2-Medium.ttf": "/kurniawan/static/media/CentraNo2-Medium.e607ab3a57d6d01aabd4.ttf",
     "static/media/banner.png": "/kurniawan/static/media/banner.e29d450b8cb012b42f39.png",
     "static/media/comming-soon.jpg": "/kurniawan/static/media/comming-soon.625fd32c58eb1417f711.jpg",
+    "static/media/todoApp.jpg": "/kurniawan/static/media/todoApp.6dfabb0259263b25c091.jpg",
     "static/media/laravel.png": "/kurniawan/static/media/laravel.279e3fcb19d440713887.png",
     "static/media/chat-app.jpg": "/kurniawan/static/media/chat-app.2a4971ad6d7aa828ddc8.jpg",
     "static/media/github.jpg": "/kurniawan/static/media/github.934436a1f3ee43defae7.jpg",
@@ -25,11 +26,11 @@
     "static/media/revicons.woff": "/kurniawan/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/kurniawan/index.html",
     "main.665654f9.css.map": "/kurniawan/static/css/main.665654f9.css.map",
-    "main.ffc8c309.js.map": "/kurniawan/static/js/main.ffc8c309.js.map",
+    "main.606d76dc.js.map": "/kurniawan/static/js/main.606d76dc.js.map",
     "787.bbe01249.chunk.js.map": "/kurniawan/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.665654f9.css",
-    "static/js/main.ffc8c309.js"
+    "static/js/main.606d76dc.js"
   ]
 }
