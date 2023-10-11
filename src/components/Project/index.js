@@ -5,6 +5,7 @@ import { Card } from "./card";
 import testbg from '../../images/comming-soon.jpg'
 import project1 from '../../images/project1.jpg'
 import project2 from '../../images/chat-app.jpg'
+import project3 from '../../images/todoApp.jpg'
 
 export const Project = () => {
 
@@ -22,10 +23,10 @@ export const Project = () => {
           linkUrl: 'https://simple-app-chat.glitch.me'
         },
         {
-          title: 'Comming Soon',
-          description: 'Comming Soon',
-          imgUrl:  testbg,
-          linkUrl: '#'
+          title: 'Todo List Application',
+          description: 'Todo List Application with React Redux and Express',
+          imgUrl:  project3,
+          linkUrl: 'https://mock-test-nrrg1hycz-sekrupman.vercel.app/'
         },
       ];
     const projects2 = [
