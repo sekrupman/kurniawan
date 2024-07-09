@@ -3,7 +3,8 @@ import { Card } from "./card";
 
 //IMPORT IMAGES
 import testbg from '../../images/comming-soon.jpg'
-import project1 from '../../images/project1.jpg'
+import project1 from '../../images/ai.png'
+import project4 from '../../images/project1.jpg'
 import project2 from '../../images/chat-app.jpg'
 import project3 from '../../images/todoApp.jpg'
 
@@ -11,10 +12,10 @@ export const Project = () => {
 
     const projects1 = [
         {
-          title: 'Game Platform',
-          description: 'Game Platform with nextJs and node',
+          title: 'Artificial Intelligence',
+          description: 'AI with ReactJs & GroqAI',
           imgUrl:project1,
-          linkUrl: 'https://2200872-32-han-eslint-platinum-o0j3epxi1-sekrupman.vercel.app/'
+          linkUrl: 'https://ai-sage-five.vercel.app/'
         },
         {
           title: 'Chat Application',
@@ -31,10 +32,10 @@ export const Project = () => {
       ];
     const projects2 = [
         {
-          title: 'Comming Soon',
-          description: 'Comming Soon',
-          imgUrl:  testbg,
-          linkUrl: '#'
+          title: 'Game Platform',
+          description: 'Game Platform with nextJs and node',
+          imgUrl:project4,
+          linkUrl: 'https://2200872-32-han-eslint-platinum-o0j3epxi1-sekrupman.vercel.app/'
         },
         {
           title: 'Comming Soon',
