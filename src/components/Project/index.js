@@ -21,7 +21,7 @@ export const Project = () => {
           title: 'Chat Application',
           description: 'Simple chat application with express and socket.io',
           imgUrl:  project2,
-          linkUrl: 'https://simple-app-chat.glitch.me'
+          linkUrl: 'https://chat-app-with-node-js-ecru.vercel.app/'
         },
         {
           title: 'Todo List Application',
@@ -139,4 +139,5 @@ export const Project = () => {
               </section>
         </div>
     );
+
 }
